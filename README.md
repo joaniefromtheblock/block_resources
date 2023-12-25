@@ -7,3 +7,5 @@ Metamask
 
 
 Infura
+
+Glossary
