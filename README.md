@@ -14,21 +14,32 @@ Infura
 
 Glossary
 
-Blockchain: A decentralized digital ledger that records transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks.
-Block: The smallest unit of a blockchain, which contains a record of transactions or data. Each block is connected to the previous one, forming a chain.
+- **Blockchain:** A decentralized digital ledger that records transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks.
+
+- **Block:**  The smallest unit of a blockchain, which contains a record of transactions or data. Each block is connected to the previous one, forming a chain.
 Mining: The process by which transactions are verified and added to the blockchain ledger. This process also involves the creation of new coins or tokens as a reward for the miner.
-Cryptocurrency: A digital or virtual currency that uses cryptography for security and operates independently of a central bank. Bitcoin is the most well-known cryptocurrency.
-Decentralization: The distribution of power away from a central authority. In blockchain, this means the ledger is not maintained by any single entity but is distributed across a network of computers.
-Smart Contract: A self-executing contract with the terms of the agreement directly written into lines of code. These are executed by the blockchain, making them immutable and transparent.
-Consensus Mechanism: The process used to achieve agreement on a single data value among distributed processes or systems. Blockchain uses consensus models like Proof of Work (PoW) or Proof of Stake (PoS) to agree on the validity of transactions.
-Proof of Work (PoW): A consensus mechanism that requires a participant node to solve a computationally difficult puzzle to prevent anybody from gaming the system. It's used by Bitcoin.
-Proof of Stake (PoS): An alternative to PoW, PoS requires users to hold and stake their tokens to participate in the consensus process. It’s seen as more energy-efficient than PoW.
-Token: A digital asset used within a specific blockchain ecosystem. Tokens can represent various assets or utilities.
+
+- **Cryptocurrency:** A digital or virtual currency that uses cryptography for security and operates independently of a central bank. Bitcoin is the most well-known cryptocurrency.
+
+- **Decentralization:** The distribution of power away from a central authority. In blockchain, this means the ledger is not maintained by any single entity but is distributed across a network of computers.
+
+- **Smart Contract:** A self-executing contract with the terms of the agreement directly written into lines of code. These are executed by the blockchain, making them immutable and transparent.
+  
+- **Consensus Mechanism:** The process used to achieve agreement on a single data value among distributed processes or systems. Blockchain uses consensus models like Proof of Work (PoW) or Proof of Stake (PoS) to agree on the validity of transactions.
+
+- **Proof of Work (PoW):** A consensus mechanism that requires a participant node to solve a computationally difficult puzzle to prevent anybody from gaming the system. It's used by Bitcoin.
+  
+- **Proof of Stake (PoS):** An alternative to PoW, PoS requires users to hold and stake their tokens to participate in the consensus process. It’s seen as more energy-efficient than PoW.
+  
+- **Token:** A digital asset used within a specific blockchain ecosystem. Tokens can represent various assets or utilities.
 Wallet: A software program or hardware device that stores private and public keys for cryptocurrency transactions. It allows users to send, receive, and monitor their crypto assets.
-Public Key: A cryptographic key that can be disseminated publicly and is used to verify a digital signature or encrypt a message.
-Private Key: A secret key, known only to the owner, used to decrypt messages encrypted with the corresponding public key or to create a digital signature.
+
+- **Public Key:** A cryptographic key that can be disseminated publicly and is used to verify a digital signature or encrypt a message.
+
+- **Private Key:** A secret key, known only to the owner, used to decrypt messages encrypted with the corresponding public key or to create a digital signature.
 Distributed Ledger Technology (DLT): A digital system for recording asset transactions in which the transactions and their details are recorded in multiple places at the same time, unlike traditional databases.
-Initial Coin Offering (ICO): A fundraising method used by new projects, where new tokens are issued to investors.
+
+- **Initial Coin Offering (ICO):** A fundraising method used by new projects, where new tokens are issued to investors.
 Hash Rate: The speed at which a computer is completing an operation in the blockchain network. It is a critical security measure in blockchain networks.
 Node: A computer connected to a blockchain network, which supports the network through validation and relaying of transactions.
 
