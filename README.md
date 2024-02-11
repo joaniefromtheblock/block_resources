@@ -23,7 +23,7 @@ Mining: The process by which transactions are verified and added to the blockcha
 
 - **Decentralization:** The distribution of power away from a central authority. In blockchain, this means the ledger is not maintained by any single entity but is distributed across a network of computers.
 
-- **Smart Contract:** A self-executing contract with the terms of the agreement directly written into lines of code. These are executed by the blockchain, making them immutable and transparent.
+- **Smart Contract:** A self-executing contract with the terms of the agreement directly written into lines of code. These are executed by the blockchain, making them immutable and transparent. A smart contract is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible. They are composed of code and stored on a blockchain.
   
 - **Consensus Mechanism:** The process used to achieve agreement on a single data value among distributed processes or systems. Blockchain uses consensus models like Proof of Work (PoW) or Proof of Stake (PoS) to agree on the validity of transactions.
 
@@ -45,14 +45,17 @@ Node: A computer connected to a blockchain network, which supports the network t
 
 Smart Contracts
 Detailed Explanation:
-A smart contract is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible. They are composed of code and stored on a blockchain.
+
 
 Code and Agreements: The core of a smart contract is its code, which is a set of rules and conditions. These are written in programming languages such as Solidity (for Ethereum). The code defines the conditions to which all parties agree, and the blockchain enforces these conditions.
 Autonomy and Decentralization: Once deployed, smart contracts operate autonomously without the need for intermediaries. This feature arises from the decentralized nature of blockchain technology, where no single entity controls the data.
+
 Security and Immutability: Smart contracts benefit from the high level of security inherent to blockchains. Once a contract is deployed, it cannot be altered, ensuring the terms remain unchanged.
+
 Efficiency and Cost-Effective: They eliminate the need for intermediaries, reducing transaction costs and increasing efficiency.
 Glossary of Related Terms
 Blockchain: A blockchain is a distributed ledger that is completely open to anyone. Once data (like a smart contract) has been recorded inside a blockchain, it becomes very difficult to change it.
+
 Ethereum: A blockchain platform famous for its native cryptocurrency, Ether (ETH), and for its functionality to execute smart contracts. It provides a platform for creating decentralized applications (DApps).
 Gas (Ethereum): In the Ethereum network, gas is a unit that measures the amount of computational effort required to execute operations. Each smart contract execution requires a certain amount of gas, depending on its complexity.
 Solidity: A high-level, contract-oriented programming language used for implementing smart contracts on various blockchain platforms, mainly Ethereum.
