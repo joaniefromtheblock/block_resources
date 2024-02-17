@@ -47,13 +47,15 @@ Smart Contracts
 Detailed Explanation:
 
 
-Code and Agreements: The core of a smart contract is its code, which is a set of rules and conditions. These are written in programming languages such as Solidity (for Ethereum). The code defines the conditions to which all parties agree, and the blockchain enforces these conditions.
+Code and Agreements:
+The core of a smart contract is its code, which is a set of rules and conditions. These are written in programming languages such as Solidity (for Ethereum). The code defines the conditions to which all parties agree, and the blockchain enforces these conditions.
+
 Autonomy and Decentralization: Once deployed, smart contracts operate autonomously without the need for intermediaries. This feature arises from the decentralized nature of blockchain technology, where no single entity controls the data.
 
 Security and Immutability: Smart contracts benefit from the high level of security inherent to blockchains. Once a contract is deployed, it cannot be altered, ensuring the terms remain unchanged.
 
 Efficiency and Cost-Effective: They eliminate the need for intermediaries, reducing transaction costs and increasing efficiency.
-Glossary of Related Terms
+
 Blockchain: A blockchain is a distributed ledger that is completely open to anyone. Once data (like a smart contract) has been recorded inside a blockchain, it becomes very difficult to change it.
 
 Ethereum: A blockchain platform famous for its native cryptocurrency, Ether (ETH), and for its functionality to execute smart contracts. It provides a platform for creating decentralized applications (DApps).
