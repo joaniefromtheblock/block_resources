@@ -43,7 +43,7 @@ Distributed Ledger Technology (DLT): A digital system for recording asset transa
 Hash Rate: The speed at which a computer is completing an operation in the blockchain network. It is a critical security measure in blockchain networks.
 Node: A computer connected to a blockchain network, which supports the network through validation and relaying of transactions.
 
-Smart Contracts
+**Smart Contracts**
 Detailed Explanation:
 
 
