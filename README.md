@@ -60,13 +60,20 @@ Blockchain: A blockchain is a distributed ledger that is completely open to anyo
 
 Ethereum: A blockchain platform famous for its native cryptocurrency, Ether (ETH), and for its functionality to execute smart contracts. It provides a platform for creating decentralized applications (DApps).
 Gas (Ethereum): In the Ethereum network, gas is a unit that measures the amount of computational effort required to execute operations. Each smart contract execution requires a certain amount of gas, depending on its complexity.
+
 Solidity: A high-level, contract-oriented programming language used for implementing smart contracts on various blockchain platforms, mainly Ethereum.
+
 Decentralized Application (DApp): These are digital applications or programs that exist and run on a blockchain or P2P network of computers instead of a single computer, and are outside the purview and control of a single authority.
+
 Oracle: In the context of smart contracts, an oracle is a system that feeds data to the blockchain that can't be sourced from the blockchain. For instance, it could provide real-world data like temperature, price feeds, etc., necessary for the execution of a contract.
+
 Immutable: This term describes something unchanging over time or unable to be changed. Once a smart contract is deployed to the blockchain, its code and conditions cannot be altered.
+
 Distributed Ledger: Unlike a centralized database, a distributed ledger has no central data store or administrative functionality. In a distributed ledger, each node processes and verifies every item, thereby generating a record of each item and creating a consensus on each item’s veracity.
+
 Transaction: In blockchain, a transaction is a record of a smart contract execution or cryptocurrency exchange, which is recorded on the blockchain ledger.
 Consensus Mechanisms: These are protocols that make sure all nodes in the blockchain are synchronized with each other. They are fundamental to manage the agreement on the state of the blockchain.
+
 Interoperability: The ability to share and access information across different blockchain systems, enhancing the capabilities and efficiencies of smart contracts and blockchain networks.
 Cryptocurrency: Digital or virtual currencies that use cryptography for security and operate independently of a central bank; often used as a medium for financial transactions in smart contracts.
 Wallet: A blockchain wallet is a digital wallet that allows users to manage their cryptocurrencies. Wallets are used to store, send, and receive digital currency and interact with smart contracts.
