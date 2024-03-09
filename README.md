@@ -71,7 +71,7 @@ Immutable: This term describes something unchanging over time or unable to be ch
 
 Distributed Ledger: Unlike a centralized database, a distributed ledger has no central data store or administrative functionality. In a distributed ledger, each node processes and verifies every item, thereby generating a record of each item and creating a consensus on each item’s veracity.
 
-Transaction: In blockchain, a transaction is a record of a smart contract execution or cryptocurrency exchange, which is recorded on the blockchain ledger.
+**Transaction:**  In blockchain, a transaction is a record of a smart contract execution or cryptocurrency exchange, which is recorded on the blockchain ledger.
 Consensus Mechanisms: These are protocols that make sure all nodes in the blockchain are synchronized with each other. They are fundamental to manage the agreement on the state of the blockchain.
 
 Interoperability: The ability to share and access information across different blockchain systems, enhancing the capabilities and efficiencies of smart contracts and blockchain networks.
