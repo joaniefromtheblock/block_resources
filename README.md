@@ -76,6 +76,9 @@ Consensus Mechanisms: These are protocols that make sure all nodes in the blockc
 
 Interoperability: The ability to share and access information across different blockchain systems, enhancing the capabilities and efficiencies of smart contracts and blockchain networks.
 Cryptocurrency: Digital or virtual currencies that use cryptography for security and operate independently of a central bank; often used as a medium for financial transactions in smart contracts.
+
 Wallet: A blockchain wallet is a digital wallet that allows users to manage their cryptocurrencies. Wallets are used to store, send, and receive digital currency and interact with smart contracts.
+
 Token: Tokens are a type of privately issued cryptocurrency which are often used as part of the decentralized services offered by a specific project or organization on the blockchain.
+
 Decentralization: Refers to the transfer of control and decision-making from a centralized entity (individual, organization, or group thereof) to a distributed network, foundational to blockchain and smart contracts.
