@@ -11,3 +11,10 @@
 
 
 > NOTE: test
+
+<div class="warning">
+
+**NOTE:**
+Find the docs [here](http://example.com/).
+
+</div>
